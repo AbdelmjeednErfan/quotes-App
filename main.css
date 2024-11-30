@@ -1,0 +1,28 @@
+.text{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+.quote{
+    font-size: 30px;
+    color: black;
+}
+.btn{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    margin-bottom: 1rem;
+
+}
+.btn:hover{
+    background-color: green;
+    color: black;
+}
+.version{
+    font-size: 30px;
+    color: black;
+    padding-top: 10px;
+    font-weight:50px;
+}
